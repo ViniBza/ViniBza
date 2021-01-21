@@ -5,5 +5,5 @@
   Opa, tudo certo? Sou ***Vini*** estudante de Análise e Desenvolvimento de Sistemas, gosto muito de aprender coisas novas e pretendo virar *Dev Mobile* :grin: :iphone:
 	
 -  🔍  Atualmente aberto a novas oportunidades.
--  📰  Estudando Android com Java/Kotlin.	-  📰  Estudando atualmente java.
+-  📰  Estudando Android com Java/Kotlin.
 -  💬  Sobre mim: Amante de games, séries e claro muitos animes!!
